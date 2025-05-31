@@ -37,6 +37,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\iphone-16-pro-max.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-16-pro-max.webp"
+    },
+    {
+      "Id": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\macbook-air-m4-2025.webp",
+      "PackagePath": "staticwebassets\\image\\macbook-air-m4-2025.webp"
+    },
+    {
+      "Id": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\tablet-samsung-galaxy-tab-s10.webp",
+      "PackagePath": "staticwebassets\\image\\tablet-samsung-galaxy-tab-s10.webp"
+    },
+    {
       "Id": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },

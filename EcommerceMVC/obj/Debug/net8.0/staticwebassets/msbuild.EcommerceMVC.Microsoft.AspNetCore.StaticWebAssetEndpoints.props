@@ -108,6 +108,42 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:45:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceMVC/image/iphone-16-pro-max.diljip9wl3.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\iphone-16-pro-max.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"diljip9wl3"},{"Name":"integrity","Value":"sha256-pdk1BVwDIPwfnSPs0IBV\u002BAU64MfpzPuR27HQOwiS\u002BkI="},{"Name":"label","Value":"_content/EcommerceMVC/image/iphone-16-pro-max.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9430"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022pdk1BVwDIPwfnSPs0IBV\u002BAU64MfpzPuR27HQOwiS\u002BkI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 13:02:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceMVC/image/iphone-16-pro-max.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\iphone-16-pro-max.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pdk1BVwDIPwfnSPs0IBV\u002BAU64MfpzPuR27HQOwiS\u002BkI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9430"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022pdk1BVwDIPwfnSPs0IBV\u002BAU64MfpzPuR27HQOwiS\u002BkI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 13:02:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceMVC/image/macbook-air-m4-2025.qn7c6ao8e4.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\macbook-air-m4-2025.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qn7c6ao8e4"},{"Name":"integrity","Value":"sha256-xl927PVVNx8KAGmjEZsyqhiJkCMY3m\u002BZnispwmpoZaw="},{"Name":"label","Value":"_content/EcommerceMVC/image/macbook-air-m4-2025.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17852"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022xl927PVVNx8KAGmjEZsyqhiJkCMY3m\u002BZnispwmpoZaw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 13:09:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceMVC/image/macbook-air-m4-2025.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\macbook-air-m4-2025.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xl927PVVNx8KAGmjEZsyqhiJkCMY3m\u002BZnispwmpoZaw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17852"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022xl927PVVNx8KAGmjEZsyqhiJkCMY3m\u002BZnispwmpoZaw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 13:09:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceMVC/image/tablet-samsung-galaxy-tab-s10.9o7ipgz2ld.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\tablet-samsung-galaxy-tab-s10.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9o7ipgz2ld"},{"Name":"integrity","Value":"sha256-WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo="},{"Name":"label","Value":"_content/EcommerceMVC/image/tablet-samsung-galaxy-tab-s10.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8810"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 13:12:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceMVC/image/tablet-samsung-galaxy-tab-s10.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\tablet-samsung-galaxy-tab-s10.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8810"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 13:12:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EcommerceMVC/js/bootstrap.min.ckio6tdysc.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.min.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

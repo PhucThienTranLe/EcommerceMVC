@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CyxkKun6BnVLimCFyS+RFHePmrArbXTeeljJ84pKjf8=",
+  "Hash": "PWauyK/1Cl767jFxIAtNLDsDO9bX1Q4YJPW27dTBmtU=",
   "Source": "EcommerceMVC",
   "BasePath": "_content/EcommerceMVC",
   "Mode": "Default",
@@ -225,6 +225,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\iphone-16-pro-max.webp",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "image/iphone-16-pro-max#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "diljip9wl3",
+      "Integrity": "pdk1BVwDIPwfnSPs0IBV+AU64MfpzPuR27HQOwiS+kI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\iphone-16-pro-max.webp"
+    },
+    {
+      "Identity": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\macbook-air-m4-2025.webp",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "image/macbook-air-m4-2025#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qn7c6ao8e4",
+      "Integrity": "xl927PVVNx8KAGmjEZsyqhiJkCMY3m+ZnispwmpoZaw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\macbook-air-m4-2025.webp"
+    },
+    {
+      "Identity": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\tablet-samsung-galaxy-tab-s10.webp",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "image/tablet-samsung-galaxy-tab-s10#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9o7ipgz2ld",
+      "Integrity": "WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\tablet-samsung-galaxy-tab-s10.webp"
     },
     {
       "Identity": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\js\\bootstrap.min.js",
@@ -2431,6 +2494,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "image/iphone-16-pro-max.diljip9wl3.webp",
+      "AssetFile": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\iphone-16-pro-max.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pdk1BVwDIPwfnSPs0IBV+AU64MfpzPuR27HQOwiS+kI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 13:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "diljip9wl3"
+        },
+        {
+          "Name": "label",
+          "Value": "image/iphone-16-pro-max.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pdk1BVwDIPwfnSPs0IBV+AU64MfpzPuR27HQOwiS+kI="
+        }
+      ]
+    },
+    {
+      "Route": "image/iphone-16-pro-max.webp",
+      "AssetFile": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\iphone-16-pro-max.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pdk1BVwDIPwfnSPs0IBV+AU64MfpzPuR27HQOwiS+kI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 13:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pdk1BVwDIPwfnSPs0IBV+AU64MfpzPuR27HQOwiS+kI="
+        }
+      ]
+    },
+    {
+      "Route": "image/macbook-air-m4-2025.qn7c6ao8e4.webp",
+      "AssetFile": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\macbook-air-m4-2025.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xl927PVVNx8KAGmjEZsyqhiJkCMY3m+ZnispwmpoZaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 13:09:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qn7c6ao8e4"
+        },
+        {
+          "Name": "label",
+          "Value": "image/macbook-air-m4-2025.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xl927PVVNx8KAGmjEZsyqhiJkCMY3m+ZnispwmpoZaw="
+        }
+      ]
+    },
+    {
+      "Route": "image/macbook-air-m4-2025.webp",
+      "AssetFile": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\macbook-air-m4-2025.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xl927PVVNx8KAGmjEZsyqhiJkCMY3m+ZnispwmpoZaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 13:09:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xl927PVVNx8KAGmjEZsyqhiJkCMY3m+ZnispwmpoZaw="
+        }
+      ]
+    },
+    {
+      "Route": "image/tablet-samsung-galaxy-tab-s10.9o7ipgz2ld.webp",
+      "AssetFile": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\tablet-samsung-galaxy-tab-s10.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 13:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9o7ipgz2ld"
+        },
+        {
+          "Name": "label",
+          "Value": "image/tablet-samsung-galaxy-tab-s10.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo="
+        }
+      ]
+    },
+    {
+      "Route": "image/tablet-samsung-galaxy-tab-s10.webp",
+      "AssetFile": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\wwwroot\\image\\tablet-samsung-galaxy-tab-s10.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 13:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WaCMXWA/3G1iUX8G9qtIieQSRWbZwjY2W6zwyzfUGlo="
         }
       ]
     },

@@ -6,6 +6,9 @@ wwwroot\css\prettyPhoto.css
 wwwroot\css\price-range.css
 wwwroot\css\responsive.css
 wwwroot\favicon.ico
+wwwroot\image\iphone-16-pro-max.webp
+wwwroot\image\macbook-air-m4-2025.webp
+wwwroot\image\tablet-samsung-galaxy-tab-s10.webp
 wwwroot\js\bootstrap.min.js
 wwwroot\js\contact.js
 wwwroot\js\gmaps.js
