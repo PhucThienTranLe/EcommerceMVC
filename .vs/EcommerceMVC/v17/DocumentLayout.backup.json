@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\C-Sharp\\EcommerceMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Migrations\\20250531121539_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceMVC\\Migrations\\20250531121539_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|d:\\project\\c-sharp\\ecommercemvc\\ecommercemvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Migrations\\20250531121012_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceMVC\\Migrations\\20250531121012_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|d:\\project\\c-sharp\\ecommercemvc\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|d:\\project\\c-sharp\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|d:\\project\\c-sharp\\ecommercemvc\\ecommercemvc\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|d:\\project\\c-sharp\\ecommercemvc\\ecommercemvc\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|d:\\project\\c-sharp\\ecommercemvc\\ecommercemvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|d:\\project\\c-sharp\\ecommercemvc\\ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E75A3D-5795-40C9-80FF-518F2778A5D1}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250531121539_Initial.cs",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Migrations\\20250531121539_Initial.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Migrations\\20250531121539_Initial.cs",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Migrations\\20250531121539_Initial.cs",
+              "RelativeToolTip": "EcommerceMVC\\Migrations\\20250531121539_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:15:39.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250531121012_FirstMigration.cs",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Migrations\\20250531121012_FirstMigration.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Migrations\\20250531121012_FirstMigration.cs",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Migrations\\20250531121012_FirstMigration.cs",
+              "RelativeToolTip": "EcommerceMVC\\Migrations\\20250531121012_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:10:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Program.cs",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Program.cs",
+              "RelativeToolTip": "EcommerceMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:57:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceMVC\\appsettings.json",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\appsettings.json",
+              "RelativeToolTip": "EcommerceMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T11:56:23.995Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -37,15 +126,76 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Repository\\DataContext.cs",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Repository\\DataContext.cs",
+              "RelativeToolTip": "EcommerceMVC\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:38:40.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Models\\ProductModel.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:32:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\BrandModel.cs",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Models\\BrandModel.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:30:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:26:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project\\C-Sharp\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T11:18:15.097Z",
+              "EditorCaption": ""
             }
           ]
         }
