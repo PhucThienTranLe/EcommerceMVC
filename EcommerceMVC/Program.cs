@@ -1,4 +1,3 @@
-using EcommerceMVC.Migrations;
 using EcommerceMVC.Repository;
 using Microsoft.EntityFrameworkCore;
 
